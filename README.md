@@ -1,3 +1,11 @@
+
+<!-- AUTO-PACKAGE-BADGES:START -->
+<!-- Auto-generated package badges -->
+
+![PyPI version](https://img.shields.io/pypi/v/artifactsrc?style=flat-square&logo=pypi&color=green) ![PyPI downloads](https://img.shields.io/pypi/dm/artifactsrc?style=flat-square&color=brightgreen) ![PyPI license](https://img.shields.io/pypi/l/artifactsrc?style=flat-square) [![Deployed](https://img.shields.io/badge/deployed-20251127-blue?style=flat-square)](https://pypi.org/project/artifactsrc)
+
+<!-- AUTO-PACKAGE-BADGES:END -->
+
 ## Digital Forensics Artifact knowledge base
 
 This project provides [documentation](https://artifacts-kb.readthedocs.io/en/latest)
